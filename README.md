@@ -2,7 +2,7 @@
 
 ![Python](Images/Python.JPG "Python")
 
-![Image](Images/NJPImage.JPG "Image")
+![Image](Images/NJP-Symbols.JPG "Image")
 
 "<img src=('Images/![Python](Images/Python.JPG "Python")'/>\n")
 
