@@ -1,10 +1,8 @@
 # Programming-For-Data-Analysis-Assignment-2019
 
-![Python](Images/Python.JPG "Python")
 
 ![Image](Images/NJP-Symbols.JPG "Image")
 
-"<img src=('Images/![Python](Images/Python.JPG "Python")'/>\n")
 
 This Juypter notebook *Numpy Random.ipynb* explains the overall use of the *numpy.random* package in Python. The notebook is divided in to four sections.
 
