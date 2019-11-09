@@ -2,7 +2,9 @@
 
 ![Python](Images/Python.JPG "Python")
 
-"<img src=('Images/NJP-Symbols.jpg'/>\n")
+![Image](Images/NJPImage.JPG "Image")
+
+"<img src=('Images/![Python](Images/Python.JPG "Python")'/>\n")
 
 This Juypter notebook *Numpy Random.ipynb* explains the overall use of the *numpy.random* package in Python. The notebook is divided in to four sections.
 
