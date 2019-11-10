@@ -1,10 +1,10 @@
-# Programming-For-Data-Analysis-Assignment-2019
+# Programming for Data Analysis Assignment 2019
 
 
 ![Image](Images/NJP-Symbols.JPG "Image")
 
 
-This Juypter notebook *Numpy Random.ipynb* explains the overall use of the *numpy.random* package in Python. The notebook is divided in to four sections.
+This Juypter notebook *Numpy Random.ipynb* explains the overall use of the *numpy.random* package in Python. The notebook is divided in to four sections that run in sequence.
 
 1. Overall Use of the numpy.random package
 2. Simple random data & Permutations Functions
