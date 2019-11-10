@@ -4,7 +4,7 @@
 ![Image](Images/NJP-Symbols.JPG "Image")
 
 
-This Juypter notebook *Numpy Random.ipynb* explains the overall use of the *numpy.random* package in Python. The notebook is divided in to four sections that run in sequence.
+This Juypter notebook ####*Numpy Random.ipynb* explains the overall use of the *numpy.random* package in Python. The notebook is divided in to four sections that run in sequence.
 
 
 ## 1. Introduction to Numpy random
