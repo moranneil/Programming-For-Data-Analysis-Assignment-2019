@@ -15,7 +15,7 @@ This section gives an introduction to Numpy in python and Numpy randon. It gives
 
 This section describes the two functions numpy.randon & numpy.randn
 
-Both Permutations and Suffle functions are also discussed with examples of both.
+Both Permutations and Shuffle functions are also discussed with examples of both.
 
 ## 3. Five Distribution Functions
 
